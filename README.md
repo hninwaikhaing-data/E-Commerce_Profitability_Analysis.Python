@@ -73,10 +73,10 @@ The analysis addresses five key business questions:
 
 ## Datasets
 
-   Three datasets support the analysis.
-   orders: order-level transactions, 
-   products: a product catalog with cost data, 
-   marketing_spend: monthly marketing spend by platform
+      Three datasets support the analysis.
+      orders: order-level transactions, 
+      products: a product catalog with cost data, 
+      marketing_spend: monthly marketing spend by platform
 ---
 
 ## Tools
